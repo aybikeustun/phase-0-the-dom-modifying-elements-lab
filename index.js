@@ -7,4 +7,4 @@ newHeader.id = "victory"
 newHeader.innerHTML = "Aybik is the champion!";
 newHeader.className = "victory";
 
-
+document.body.append(newHeader);
